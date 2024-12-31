@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing for the moment, I'm afraid ;)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Did you ever hear about COBOL ? Fred language ? Multiplan ? CP/M 86 ? Hmmm we learned all of these strange things in the 80's !
+- ⚡ 
 
 <!---
 VH56/VH56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
